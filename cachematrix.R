@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## The functions are used to calculate the inversed matrix of a matrix
-## the original matrix must be square, and invertable
+## the matrix must be a square and invertable matrix
 
 ## Write a short comment describing this function
 ## creates a special "matrix" object that can cache its inverse.
